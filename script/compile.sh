@@ -1,0 +1,1 @@
+g++ -std=c++17 -static -O3 -Wall -Wextra -Wno-unused-result  $1.cpp -lm -o exe/$1 
